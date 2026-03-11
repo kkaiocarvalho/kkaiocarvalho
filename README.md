@@ -23,9 +23,7 @@ Always learning and improving how to design scalable and efficient systems.
 
 ---
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=kkaiocarvalho&theme=dracula" height="150" />
-</div>
+<div align="center"> <img src="https://streak-stats.demolab.com?user=kkaiocarvalho&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> </div>
 
 ---
 
